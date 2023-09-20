@@ -1,2 +1,2 @@
-// Visual Studio code - installation
+// Visual Studio code - instagitllation
 // HTML CSS JAVASCRIPT Basics
